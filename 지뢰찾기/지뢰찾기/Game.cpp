@@ -75,7 +75,7 @@ void Game::Move(char ch)
 		m_iCursorX -= 2;
 	else if (ch == RIGHT && m_iCursorX < WIDTH * 2 - 2)
 		m_iCursorX += 2;
-	else if (ch == UP && m_iCursorY >= 1)
+	else if (ch == UP && m_iCursorY >= 1)  
 		m_iCursorY -= 1;
 	else if (ch == DOWN && m_iCursorY < HEIGHT - 1)
 		m_iCursorY += 1;
