@@ -10,7 +10,7 @@ int BSearch(int arr[], int first, int last, int target)
 
 	if (target == arr[mid])
 	{
-		return mid;
+		return mid;  
 	}
 	else
 	{
