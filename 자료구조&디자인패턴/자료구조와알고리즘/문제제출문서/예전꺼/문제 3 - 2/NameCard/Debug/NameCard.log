@@ -1,0 +1,17 @@
+﻿  Namemain.cpp
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\namecard\namemain.cpp(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  NameCard.vcxproj -> C:\이민우\Leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\문제 3 - 2\Debug\NameCard.exe
