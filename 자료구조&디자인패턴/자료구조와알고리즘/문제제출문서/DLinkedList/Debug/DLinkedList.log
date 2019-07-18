@@ -1,4 +1,0 @@
-﻿  DLinkedListMain.cpp
-c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\dlinkedlist\dlinkedlistmain.cpp(64): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
-  DLinkedList.vcxproj -> C:\이민우\Leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\DLinkedList\Debug\DLinkedList.exe
