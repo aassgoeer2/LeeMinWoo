@@ -20,6 +20,7 @@ typedef struct _linkedList
 	Node * before;
 	int numOfData;
 	int(*comp)(LData d1, LData d2);
+	int(*Rule)(LData d1, LData d2);
 } LinkedList;
 
 
