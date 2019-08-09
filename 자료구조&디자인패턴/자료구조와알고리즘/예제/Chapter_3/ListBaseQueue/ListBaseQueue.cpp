@@ -26,6 +26,7 @@ void Enqueue(Queue * pq, Data data)
 	{
 		pq->front = newNode;
 		pq->rear = newNode;
+		
 	}
 	else
 	{
