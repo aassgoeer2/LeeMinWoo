@@ -1,3 +1,3 @@
 ﻿  BinarySearch.cpp
-c:\이민우\leeminwoo\project1\project2\binarysearch.cpp(23): warning C4715: 'BSearch': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  Project2.vcxproj -> C:\이민우\Leeminwoo\Project1\Debug\Project2.exe
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\예전꺼\project1\project2\binarysearch.cpp(23): warning C4715: 'BSearch': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project2.vcxproj -> C:\이민우\Leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\예전꺼\Project1\Debug\Project2.exe

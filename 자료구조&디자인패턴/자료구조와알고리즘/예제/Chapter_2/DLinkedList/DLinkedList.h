@@ -12,7 +12,7 @@ typedef struct _node
 	struct _node * next;
 } Node;
 
-typedef struct _linkedList
+typedef struct _linkedList // BlockManager
 {
 	Node * head;
 	Node * cur;

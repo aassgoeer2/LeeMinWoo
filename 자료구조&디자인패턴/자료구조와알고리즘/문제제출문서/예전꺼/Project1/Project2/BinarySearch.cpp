@@ -35,10 +35,10 @@ int BSearchInit(int arr[], int len, int target)
 
 int main()
 {
-	int arr[] = { 1, 3, 4, 5, 7, 9 ,10};
+	int arr[] = { 1, 3, 4, 5, 7, 9 ,10 };
 	int idx;
 
-	idx = BSearchInit(arr, sizeof(arr) / sizeof(int), 7);
+	idx = BSearchInit(arr, sizeof(arr) / sizeof(int), 1);
 
 	if (idx == -1)
 		cout << "Å½»ö ½ÇÆÐ" << endl;
@@ -46,6 +46,8 @@ int main()
 		cout << "Å¸°Ù ÀúÀå ÀÎµ¦½º : " << idx << endl;
 
 	idx = BSearchInit(arr, sizeof(arr) / sizeof(int), 4);
+
+
 
 	if (idx == -1)
 		cout << "Å½»ö ½ÇÆÐ" << endl;
