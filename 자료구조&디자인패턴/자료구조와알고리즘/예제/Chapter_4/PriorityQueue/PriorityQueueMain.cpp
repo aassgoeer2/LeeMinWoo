@@ -1,28 +1,38 @@
 #include <stdio.h>
+#include <string>
+#include <conio.h>
 #include "PriorityQueue.h"
 
-int DataPriorityComp(char ch1, char ch2)
+int DataPriorityComp(char * ch1, char * ch2)
 {
-	return ch2 - ch1;
+
+	return strlen(ch2) - strlen(ch1);
 }
 
 int main(void)
 {
 	PQueue pq;
+	HData str;
+	char str1[] = "What";
+	char str2[] = "The";
+	char str3[] = "Hello";
+	char str4[] = "Hi";
 	PQueueInit(&pq, DataPriorityComp);
 
-	PEnqueue(&pq, 'A');
-	PEnqueue(&pq, 'B');
-	PEnqueue(&pq, 'C');
-	printf("%c \n", PDequeue(&pq));
+	str = str1;
+	PEnqueue(&pq, str);
+	str = str2;
+	PEnqueue(&pq, str);
+	str = str3;
+	PEnqueue(&pq, str);
+	str = str4;
+	PEnqueue(&pq, str);
 
-	PEnqueue(&pq, 'A');
-	PEnqueue(&pq, 'B');
-	PEnqueue(&pq, 'C');
-	printf("%c \n", PDequeue(&pq));
 
 	while (!PQIsEmpty(&pq))
-		printf("%c \n", PDequeue(&pq));
+		printf("%s \n", PDequeue(&pq));
 
+
+	_getch();
 	return 0;
 }

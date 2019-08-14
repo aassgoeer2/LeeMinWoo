@@ -7,7 +7,7 @@
 /*** Heap의 정의 ****/
 #define HEAP_LEN	100
 
-typedef char HData;
+typedef char * HData;
 
 // d1의 우선순위가 높다면 0보다 큰 값
 // d2의 우선순위가 높다면 0보다 작은 값
