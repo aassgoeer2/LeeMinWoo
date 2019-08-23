@@ -21,6 +21,7 @@ typedef struct _linkedList
 	int(*comp)(LData d1, LData d2);
 } LinkedList;
 
+//typedef int(comp)(int, int);
 
 typedef LinkedList List;
 

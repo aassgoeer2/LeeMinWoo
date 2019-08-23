@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include <conio.h>
 #include "BinaryTree.h"
 
 void InorderTraverse(BTreeNode * bt)
 {
-	if (bt == NULL)    // bt°¡ NULLÀÌ¸é Àç±Í Å»Ãâ! 
+	if (bt == NULL)    // bt°¡ NULLÀÌ¸é Àç±Í Å»Ãâ! ! ! !
 		return;
 
 	InorderTraverse(bt->left);
@@ -28,5 +29,6 @@ int main(void)
 	MakeLeftSubTree(bt2, bt4);
 
 	InorderTraverse(bt1);
+	_getch();
 	return 0;
 }

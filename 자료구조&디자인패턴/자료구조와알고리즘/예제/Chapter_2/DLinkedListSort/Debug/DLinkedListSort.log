@@ -1,5 +1,7 @@
-﻿  DLinkedListSort.cpp
-  DLinkedList.cpp
+﻿  DLinkedList.cpp
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\예제\chapter_2\dlinkedlistsort\dlinkedlist.cpp(9): error C2273: '함수 스타일 캐스트': '->' 연산자의 오른쪽에 사용할 수 없습니다.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\예제\chapter_2\dlinkedlistsort\dlinkedlist.cpp(31): error C2273: '함수 스타일 캐스트': '->' 연산자의 오른쪽에 사용할 수 없습니다.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\예제\chapter_2\dlinkedlistsort\dlinkedlist.cpp(45): error C2273: '함수 스타일 캐스트': '->' 연산자의 오른쪽에 사용할 수 없습니다.
+c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\예제\chapter_2\dlinkedlistsort\dlinkedlist.cpp(95): error C2273: '함수 스타일 캐스트': '->' 연산자의 오른쪽에 사용할 수 없습니다.
+  DLinkedListSort.cpp
   코드를 생성하고 있습니다...
-  DLinkedListSort.vcxproj -> D:\Development\C++\C++실습\Chapter7\Debug\DLinkedListSort.exe
-  DLinkedListSort.vcxproj -> D:\Development\C++\C++실습\Chapter7\Debug\DLinkedListSort.pdb (Partial PDB)
