@@ -21,6 +21,12 @@ int main(void)
 	np = MakePersonData(900254, "Lee", "Seoul");
 	TBLInsert(&myTbl, GetSSN(np), np);
 
+	//np = MakePersonData(901254, "Lee2", "Seoul");
+	//TBLInsert(&myTbl, GetSSN(np), np);
+
+	//np = MakePersonData(902254, "Lee3", "Seoul");
+	//TBLInsert(&myTbl, GetSSN(np), np);
+
 	np = MakePersonData(900139, "KIM", "Jeju");
 	TBLInsert(&myTbl, GetSSN(np), np);
 
@@ -31,6 +37,14 @@ int main(void)
 	sp = TBLSearch(&myTbl, 900254);
 	if (sp != NULL)
 		ShowPerInfo(sp);
+
+	//sp = TBLSearch(&myTbl, 901254);
+	//if (sp != NULL)
+	//	ShowPerInfo(sp);
+
+	//sp = TBLSearch(&myTbl, 902254);
+	//if (sp != NULL)
+	//	ShowPerInfo(sp);
 
 	sp = TBLSearch(&myTbl, 900139);
 	if (sp != NULL)
@@ -52,6 +66,9 @@ int main(void)
 	rp = TBLDelete(&myTbl, 900827);
 	if (rp != NULL)
 		free(rp);
+
+	//rp = TBLDelete(&myTbl, 901254);
+	//free(rp);
 
 	return 0;
 }

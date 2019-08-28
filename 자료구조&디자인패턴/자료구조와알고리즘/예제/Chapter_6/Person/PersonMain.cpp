@@ -11,7 +11,7 @@ int MyHashFunc(int k)
 int main(void)
 {
 	Table myTbl;
-	Person * np;
+	Value np;
 	Person * sp;
 	Person * rp;
 

@@ -1,5 +1,0 @@
-﻿  BinarySearchTreeMain.cpp
-c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\binarysearchtree\binarysearchtreemain.cpp(16): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\binarysearchtree\binarysearchtreemain.cpp(17): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\이민우\leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\binarysearchtree\binarysearchtreemain.cpp(19): warning C4101: 'Node' :참조되지 않은 지역 변수입니다.
-  BinarySearchTree.vcxproj -> C:\이민우\Leeminwoo\자료구조&디자인패턴\자료구조와알고리즘\문제제출문서\BinarySearchTree\Debug\BinarySearchTree.exe

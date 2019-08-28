@@ -18,6 +18,8 @@ int main(void)
 	BSTInsert(&bstRoot, 3);
 	BSTInsert(&bstRoot, 2);
 	BSTInsert(&bstRoot, 7);
+	BSTInsert(&bstRoot, 10);
+	BSTInsert(&bstRoot, 11);
 
 	BSTShowAll(bstRoot); printf("\n");
 	sNode = BSTRemove(&bstRoot, 3);
