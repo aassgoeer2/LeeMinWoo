@@ -13,6 +13,8 @@ int main(void)
 	AddEdge(&graph, D, E);
 	AddEdge(&graph, E, F);
 	AddEdge(&graph, E, G);
+	AddEdge(&graph, G, A);
+	AddEdge(&graph, C, G);
 
 	ShowGraphEdgeInfo(&graph);
 
@@ -20,6 +22,7 @@ int main(void)
 	DFShowGraphVertex(&graph, C); printf("\n");
 	DFShowGraphVertex(&graph, E); printf("\n");
 	DFShowGraphVertex(&graph, G); printf("\n");
+	DFShowGraphVertex(&graph, E); printf("\n");
 
 	GraphDestroy(&graph);
 	return 0;

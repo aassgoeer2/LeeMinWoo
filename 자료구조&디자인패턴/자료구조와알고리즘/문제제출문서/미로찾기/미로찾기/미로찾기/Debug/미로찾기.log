@@ -1,0 +1,7 @@
+﻿  MiroMain.cpp
+c:\users\c-05\downloads\미로찾기\미로찾기\미로찾기\miromain.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\c-05\downloads\미로찾기\미로찾기\미로찾기\miromain.cpp(83): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\c-05\downloads\미로찾기\미로찾기\미로찾기\miromain.cpp(90): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  미로찾기.vcxproj -> C:\Users\c-05\Downloads\미로찾기\미로찾기\Debug\미로찾기.exe
